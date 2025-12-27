@@ -8,90 +8,58 @@
 
 ## 🧠 About Me
 
-🎓 CS Undergraduate passionate about **backend systems, scalable architectures, and cloud-native development**  
-⚙️ Strong interest in **distributed systems, DevOps, and performance-oriented design**  
-🚀 Always building, learning, and optimizing systems for real-world scale  
+🎓 Computer Science undergraduate passionate about **backend engineering, scalable system design, and cloud-native applications**  
+⚙️ Interested in **distributed systems, DevOps practices, and high-performance backend services**  
+🚀 Focused on writing clean, efficient, and production-ready code  
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Technical Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
-### ⚙️ Backend & Frameworks
+### 🌐 Web Development
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
 ### ☁️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Consistent Hashing Load Balancer
-Java-based distributed load balancer implementing virtual nodes for minimal rehashing and better fault tolerance.  
-**Tech:** Java, System Design  
-🔗 https://github.com/ghanshyam3011/Consistent-Hashing-Load-Balancer  
-
----
-
-### 🔹 Task Scheduler (CLI Tool)
-Intelligent command-line tool that automates and schedules system tasks based on usage patterns.  
-**Tech:** Java, Linux, Shell  
-🔗 https://github.com/ghanshyam3011/TaskScheduler  
-
----
-
-### 🔹 Los Santos Police Department (Web App)
-Full-stack role-based web system with dashboards and admin controls.  
-**Tech:** Node.js, Express, MongoDB  
-🔗 https://github.com/ghanshyam3011/Los-Santos-Police-Department  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyam3011&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshyam3011&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🧩 Competitive Programming
+## 🧩 Competitive Programming Profiles
 
 <p>
-  <a href="https://leetcode.com/u/Ghanshyam3011/">
+  <a href="https://leetcode.com/u/ghanshyam9/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://codeforces.com/profile/ghanshyam3011">
+  <a href="https://www.codechef.com/users/ghanshyam11">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/I_108">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/ghanshyam3011/ghanshyam3011/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
-- 🔗 GitHub: https://github.com/ghanshyam3011  
-- 💼 LinkedIn: https://www.linkedin.com/in/ghanshyam-thacker  
-- 📧 Email: *(optional — add if you want)*  
+- 🔗 **GitHub:** https://github.com/ghanshyam3011  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ghanshyam-thacker  
 
 ---
 
-⭐ *“Building systems that scale, fail gracefully, and perform reliably.”*
+⭐ *Focused on building scalable backend systems and mastering system design.*
+
